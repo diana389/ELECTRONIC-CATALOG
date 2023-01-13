@@ -1,0 +1,56 @@
+PCLP 5
+Carmen Odubasteanu
+312CC
+Elena Stefanescu
+Larisa Angelica, Petra Angelica, David Angelica, 1.0, 4.5
+Nita Staruiala
+Robert Stanescu, Anastasia Stanescu, Valeriu Stanescu, 3.5, 5.0
+*
+313CC
+Maria Ionescu
+Dragos Popescu, Casiana Popescu, Robert Popescu
+Carisa Sonda, Florentina Sonda, Adrian Sonda
+Mirela Draghici, Carla Draghici, Eugen Draghici, 4.0, 3.5
+Sebastian Ghita
+***
+SO 4
+Razvan Deaconescu
+312CC
+Maria Ilie
+Diana Stefan, Daniela Stefan, Vali Stefan, 3.0, 5.5
+Marius Marin, Mariana Marin, Florentin Marin, 4.0, 5.0
+*
+313CC
+Paul Miheascu
+Valentina Baluta, Adriana Baluta, Iulian Baluta
+Diana Gorescu, Mirela Gorescu, Aurelian Gorescu
+David Paduretu, Vaiana Paduretu, Nicusor Paduretu, 2.0, 3.0
+Maria Costea
+***
+FIZICA 4
+Adrian Radu
+322CC
+George Munteanu
+Diana Stefan, Daniela Stefan, Vali Stefan, 3.0, 3.5
+Marius Marin, Mariana Marin, Florentin Marin, 2.0, 5.0
+*
+323CC
+Gabriel Dumitrescu
+Valentina Baluta, Adriana Baluta, Iulian Baluta, 2.5, 2.0
+Diana Gorescu, Mirela Gorescu, Aurelian Gorescu, 4.0, 4.0
+David Paduretu, Vaiana Paduretu, Nicusor Paduretu
+Maria Costea
+***
+POO 6
+Carmen Odubasteanu
+322CC
+Mihai Dutu
+Diana Stefan, Daniela Stefan, Vali Stefan, 5.0, 4.5
+Marius Marin, Mariana Marin, Florentin Marin, 5.0, 5.0
+*
+323CC
+Marius Cristescu
+Valentina Baluta, Adriana Baluta, Iulian Baluta
+Diana Gorescu, Mirela Gorescu, Aurelian Gorescu
+David Paduretu, Vaiana Paduretu, Nicusor Paduretu, 5.0, 1.0
+Maria Costea
