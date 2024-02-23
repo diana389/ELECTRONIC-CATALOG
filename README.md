@@ -6,8 +6,6 @@ Grupa: 322CC
 
 Gradul de dificultate al temei: mediu
 
-Timpul alocat rezolvării: o saptamana
-
 ## MODUL DE IMPLEMENTARE: 
 
 * Mediul ales: *Intellij IDEA*
